@@ -8,7 +8,12 @@ public class Main {
         arrayList1.add(5);
         arrayList1.add(5);
         arrayList1.add(5);
-        System.out.println(arrayList1);
+        // System.out.println(arrayList1);
+        System.out.println(arrayList1.get(2));
+        System.out.println(arrayList1.size());
+
+
+
 
 
 
