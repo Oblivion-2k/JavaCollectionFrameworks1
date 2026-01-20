@@ -15,5 +15,6 @@ public class myArrayList {
         myList.add(6);
 
         System.out.println(myList);
+        System.out.println(myList);
     }
 }
