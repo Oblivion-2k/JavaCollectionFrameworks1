@@ -22,14 +22,11 @@ public class StackDemo {
         try{
             for(int e : stack1){
             System.out.println(stack1.get(e));
-        }}catch(Exception e){
+            }
+        }catch(Exception e){
             System.out.println("Exception Occured");
             System.out.println(e);
             //e.getStackTrace();
         }
-
-
-
     }
-
 }
